@@ -1,0 +1,16 @@
+{
+  "name": "notuygulamasi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "ekle": "node index.js ekle",
+    "listele":"node index.js listele",
+    "sil": "node index.js sil",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "Sibel Cansu",
+  "license": "ISC",
+  "description": ""
+}
