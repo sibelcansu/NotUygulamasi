@@ -42,7 +42,7 @@ Belirli bir ID'ye sahip notu silmek için:
 
 🔧 **Özellikler**
 
-notlar.json dosyası otomatik olarak oluşturulur.
+**notlar.json** dosyası otomatik olarak oluşturulur.
 
 Notlar ID ile saklanır.
 
