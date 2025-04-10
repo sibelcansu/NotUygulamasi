@@ -11,7 +11,7 @@ Bu uygulama, terminal üzerinden not ekleyip yönetmenizi sağlar. **Node.js**'i
 Ardından, projeyi klonlayıp terminalde aşağıdaki adımları takip edin:
 
 ```sh
-git clone https://github.com/sibelcansu/NotUygulamasi.git 
+git clone https://github.com/kullaniciadi/NotUygulamasi.git 
 cd NotUygulamasi
 ```
 
